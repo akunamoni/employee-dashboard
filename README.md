@@ -6,7 +6,7 @@ React.js Employee Management Dashboard with authentication,
 ## Tech Stack
 - React.js + Vite
 - Context API
-- LocalStorage (Mock API)
+- LocalStorage (Mock data)
 
 ## Run Locally
 npm install
