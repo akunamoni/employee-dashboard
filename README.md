@@ -9,5 +9,5 @@ React.js Employee Management Dashboard with authentication,
 - LocalStorage (Mock data)
 
 ## Run Locally
--npm install
--npm run dev
+- npm install
+- npm run dev
